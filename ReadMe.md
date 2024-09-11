@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mallikarjun Macherla</h1>
-<h5 align="center">A Computer Science student who loves to code. Currently, I'm learning about Web Development</h3>
-
-- 💬 I'm constantly learning and growing.
+<h5 align="center">A Computer Science student who loves to code. I'm constantly learning and growing.</h3>
 
 - 📫 Reach out to me **mallikarjunmac05@gmail.com**
 
