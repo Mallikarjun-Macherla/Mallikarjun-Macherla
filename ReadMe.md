@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mallikarjun Macherla</h1>
-<h5 align="center">A Computer Science student</h3>
+<h5 align="center">A Computer Science student who love to code.Currently, I'm learning about Web Development</h3>
 
-💬 Currently I'm learning about Web Development
+💬 I'm constantly learning and growing.
 
 
 # 💻 Tech Stack:
