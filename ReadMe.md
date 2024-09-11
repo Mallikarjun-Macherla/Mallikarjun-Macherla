@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 Studying Computer Science at Methodist College Of Engineering And Technology<br>💬 Currently I'm learning about Web Development
+<h1 align="center">Hey 👋, I'm Mallikarjun Macherla</h1>
+<h5 align="center">A Computer Science student/h3>
+
+💬 Currently I'm learning about Web Development
 
 
 # 💻 Tech Stack:
