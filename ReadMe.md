@@ -10,4 +10,5 @@ Right now, I'm improving my DSA fundamentals, working on ML projects, and prepar
 
 If you ever want to reach out:
 **Email:**[mallikarjunmac05@gmail.com](mallikarjunmac05@gmail.com)
+
 **LinkedIn:** [mallikarjun-macherla](https://www.linkedin.com/in/<your-link>)
