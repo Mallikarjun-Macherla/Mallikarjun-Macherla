@@ -12,4 +12,4 @@ If you ever want to reach out:
 
 **Email:**[mallikarjunmac05@gmail.com](mallikarjunmac05@gmail.com)
 
-**LinkedIn:** [mallikarjun-macherla](https://www.linkedin.com/in/<your-link>)
+**LinkedIn:** [https://www.linkedin.com/in/MallikarjunMacherla](https://www.linkedin.com/in/MallikarjunMacherla/)
