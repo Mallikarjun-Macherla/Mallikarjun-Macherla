@@ -1,6 +1,6 @@
 Hey there 👋
 
-I'm Mallikarjun, a Computer Science student from India.
+I'm **Mallikarjun**, a Computer Science student from India.
 
 I'm interested in AI, Machine Learning, and Software Engineering.
 
